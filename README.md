@@ -1,2 +1,2 @@
-# appliedmachinelearning
-Applied Machine Learning Projects
+# Applied Machine Learning
+Fun Applied Machine Learning Projects
